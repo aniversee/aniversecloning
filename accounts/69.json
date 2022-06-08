@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aniversetv",
+  "private_key_id": "ee3a7f6ef7ea3e03affff47940a6c11b2d4800c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAuMR1Ovw11XO1\nyLgZFDigWXGsqW+ySClz55knV0zjn92Zv8sLWoXW/UKMSC/LvL8qQqk60XJc8kgb\nAp1tUD5OWpJ+O2+JbpytLtux9pGmSYG5iwlbjKm7gbiOWzzOcEE9VCM4TUYSsIIB\n+h92Kc+z+qRJAWldwIUnjP476hC/XT96m1H7YAoZEvIr/Oo1lne7q+2kpllCuWBv\nXG6IME1ador+Tsjh+/uU0rJz7QFk1kKg4CGQ3/bwivYc+fi5Pw9My8c0Fg+Y8Ghq\nYyQHS75C4dUH4CredKsV+xTTcFIt36YU3Fb9WcJ62GhJ3c2IWf9O6dejWweQoYNa\n+ILjdT5DAgMBAAECggEAPEUsT1s4h99uteGFTXaI9QCz76L3hwJRUGmT+H0xUxhq\nVYxpA+5139PJTZS/udAX2rAJO5dH1DCDA0twj0Cik594o9iTm5/HiNOYKlIpn57q\nXmvQa9yUMksxu/dlj0wE4xiegRuNeAfSSKr/ztTpm2gdm6VA3ex41/MciQE85pNI\nHvZYWFDpt04C1dkC05Lz9FjRjhWyESvg5JFWXJ9dIv5oCUiO0eVE1pNuoXIszcbW\n1tunyTmiInoddWBvpbBwHzvi/4HXeF2xE1kTWP0tnaELFliXWmqbpUkTndFfbnJi\n28hxG71FJhovflgHBgG+wROZ+9cPHxOnpda02JOctQKBgQDuok0d0+u5EcgvL1cJ\nSHHtuQgDQaZ//rTs3gvcp5WkLrrrRJ1YhRKihtFUIL3e1fp8wFUFtcx3DbQl9zdB\nRdLS0c2FCvqZs4q9gQ4ysIU6O6+1yEGzCr7XfmdcZuaahKcLE3eOrN0xY6okJWUG\n6UaFH/J4PKsXMrtQTU2ybxXJJwKBgQDOvyGXA8jNW06OmnL/BwnT5Pcw9zvtI8re\nhMPdXU6T4enJ4oRtjZrUUdHDr+9i6PHcbSSvPU2GsSrWeVx0yYmtx7D4ZIoO8K4p\n2jXJ8wAqH6GtvfcEbtfkyvw/r3f75i1hAOPrOr33+g4KFG1q2L9xoTGz6BntjgJk\n3zxG4VJ7hQKBgQDA+DXsHObNbXe30ExNkWuvlKTKHViKwGmF8bkd4da8QZ2diorC\nfjmne+XiZeekPtyj7NPUHkMNMuOun87q1Y+6MzZCk7I6gFl9DNNyYhQaFxHrqdiW\n8+WHVQw4SG3KHeMGreNMWLU1ryZyvFqJ0DHajQ8B8+1WgQu/0AM4e2PemQKBgGCm\n/d8Jh+BpJSqJjeUntzJ2QhGEI2HTb83jJ2XfbxK3dIJLATnuD0nfDj97imAlIpy3\n8YRzFkE3ph0qE00Nwu2ZA2S8K8acQe+S8b59ecA3lXAR9N7/qrJtKsvjDiaXDvPg\nZKzdg13gapvPvO9McQOAJipDAYwK7ZeWvSktwU+5AoGBAMNpeQzEFOl8MeE8FZxI\nPd489rS79ORmze3sDzUA6DBeuI2OeVG/+QtcsO4HSVZbXCmA4Bswf9uh6a26El3F\nD0T2+y9UmvkJTtRlaMK/aQrwsNWL673yNmUcWozjGEGXAwUSbJjfNdQhmtsi/74C\nGV+77f04xxrwm6j7TWyEGM8P\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-sahm2lz-khknc02xshj8v561m6@aniversetv.iam.gserviceaccount.com",
+  "client_id": "111020558565269046435",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-sahm2lz-khknc02xshj8v561m6%40aniversetv.iam.gserviceaccount.com"
+}
